@@ -1,7 +1,3 @@
-# reference
-
-* [https://en.wikipedia.org/wiki/Normal-inverse-gamma_distribution](https://en.wikipedia.org/wiki/Normal-inverse-gamma_distribution)
-
 # main
 
 $$
@@ -11,3 +7,7 @@ $$
 $$
 \sigma^2 \sim \Gamma^{-1}(\alpha,\beta)
 $$
+
+# reference
+
+* [https://en.wikipedia.org/wiki/Normal-inverse-gamma_distribution](https://en.wikipedia.org/wiki/Normal-inverse-gamma_distribution)
