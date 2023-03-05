@@ -13,8 +13,6 @@
 |dirichlet|$$\textnormal{Dirichlet}(\theta\|\alpha)=\frac{\Gamma\left(\sum\limits_{k=1}^K\alpha_k\right)}{\prod\limits_{k=1}^K\Gamma(\alpha_k)}\sum\limits_{k=1}^K\theta_{k}^{\alpha_k-1}$$|[stan](https://mc-stan.org/docs/functions-reference/dirichlet-distribution.html)<br>[wiki](https://en.wikipedia.org/wiki/Dirichlet_distribution)|
 |categorical|$$\textnormal{Categorical}(y\|\theta)=\theta_y$$|[stan](https://mc-stan.org/docs/functions-reference/categorical-distribution.html)|
 
-
-
 # reference
 
 * [https://mc-stan.org/docs/functions-reference/continuous-distributions.html#continuous-distributions](https://mc-stan.org/docs/functions-reference/continuous-distributions.html#continuous-distributions)
