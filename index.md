@@ -8,3 +8,5 @@ $y=x$
 aaa
 
 [tmp](_posts/tmp.md)
+
+[tmp2](tmp.md)
