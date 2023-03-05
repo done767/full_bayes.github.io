@@ -6,7 +6,7 @@ $$
 
 |name|probability density function|
 |---|---|
-|Gamma|$$Gamma(y|\alpha,\beta)=\frac{\beta^{\alpha}}{\Gamma(\alpha)}y^{\alpha-1}\exp{(-\beta y)}$$|
+|Gamma|$$Gamma(y\|\alpha,\beta)=\frac{\beta^{\alpha}}{\Gamma(\alpha)}y^{\alpha-1}\exp{(-\beta y)}$$|
 
 # reference
 
