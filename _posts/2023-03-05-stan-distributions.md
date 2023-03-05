@@ -1,15 +1,16 @@
 # continuous distributions
 
-|name|probability density function|command|
+|name|probability density function|link|
 |---|---|---|
-|[Gamma](https://mc-stan.org/docs/functions-reference/gamma-distribution.html)|$$\textnormal{Gamma}(y\|\alpha,\beta)=\frac{\beta^{\alpha}}{\Gamma(\alpha)}y^{\alpha-1}\exp{(-\beta y)}$$|`gamma`|
-|[InvGamma](https://mc-stan.org/docs/functions-reference/inverse-gamma-distribution.html)|$$\textnormal{InvGamma}(y\|\alpha,\beta)=\frac{\beta^{\alpha}}{\Gamma(\alpha)}y^{-(\alpha+1)}\exp{\left(-\beta\frac{1}{y}\right)}$$|`inv_gamma`|
+|gamma|$$\textnormal{Gamma}(y\|\alpha,\beta)=\frac{\beta^{\alpha}}{\Gamma(\alpha)}y^{\alpha-1}\exp{(-\beta y)}$$|[stan](https://mc-stan.org/docs/functions-reference/gamma-distribution.html)|
+|inverse gamma|$$\textnormal{InvGamma}(y\|\alpha,\beta)=\frac{\beta^{\alpha}}{\Gamma(\alpha)}y^{-(\alpha+1)}\exp{\left(-\beta\frac{1}{y}\right)}$$|[stan](https://mc-stan.org/docs/functions-reference/inverse-gamma-distribution.html)|
 
 # discrete distributions
 
 |name|function|link|
 |---|---|---|
 |dirichlet|$$\textnormal{Dirichlet}(\theta\|\alpha)=\frac{\Gamma\left(\sum\limits_{k=1}^K\alpha_k\right)}{\prod\limits_{k=1}^K\Gamma(\alpha_k)}\sum\limits_{k=1}^K\theta_{k}^{\alpha_k-1}$$|[stan](https://mc-stan.org/docs/functions-reference/dirichlet-distribution.html)<br>[wiki](https://en.wikipedia.org/wiki/Dirichlet_distribution)|
+|categorical|$$\textnormal{Categorical}(y\|\theta)=\theta_y$$|[stan](https://mc-stan.org/docs/functions-reference/categorical-distribution.html)|
 
 
 
