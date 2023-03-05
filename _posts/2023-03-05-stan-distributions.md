@@ -6,8 +6,8 @@ $$
 
 |name|probability density function|link|
 |---|---|---|
-|Gamma|$$Gamma(y\|\alpha,\beta)=\frac{\beta^{\alpha}}{\Gamma(\alpha)}y^{\alpha-1}\exp{(-\beta y)}$$||
-|[InvGamma](https://mc-stan.org/docs/functions-reference/inverse-gamma-distribution.html)|$$InvGamma(y\|\alpha,\beta)=\frac{\beta^{\alpha}}{\Gamma(\alpha)}y^{-(\alpha+1)}\exp{\left(-\beta\frac{1}{y}\right)}$$||
+|Gamma|$$\textnormal{Gamma}(y\|\alpha,\beta)=\frac{\beta^{\alpha}}{\Gamma(\alpha)}y^{\alpha-1}\exp{(-\beta y)}$$||
+|[InvGamma](https://mc-stan.org/docs/functions-reference/inverse-gamma-distribution.html)|$$\textnormal{InvGamma}(y\|\alpha,\beta)=\frac{\beta^{\alpha}}{\Gamma(\alpha)}y^{-(\alpha+1)}\exp{\left(-\beta\frac{1}{y}\right)}$$||
 
 # reference
 
