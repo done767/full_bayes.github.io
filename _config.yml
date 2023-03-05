@@ -36,6 +36,8 @@ minima:
 plugins:
   - jekyll-feed
 
+markdown: kramdown
+
 #markdown: kramdown
 #kramdown:
 #   math_engine: mathjax
