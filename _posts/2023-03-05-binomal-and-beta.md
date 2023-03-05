@@ -1,6 +1,7 @@
 # Q6-7
 
 $$X|p\sim Bin(n,p)$$
+
 $$p\sim Beta(\alpha,\beta)$$
 
 # A1

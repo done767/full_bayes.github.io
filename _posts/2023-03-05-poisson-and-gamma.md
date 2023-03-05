@@ -1,6 +1,7 @@
 # Q6-8
 
 $$X_1,\cdots,X_n,i.i.d.\sim Po(\lambda)$$
+
 $$\lambda\sim Ga(\alpha,\beta)$$
 
 # A1
