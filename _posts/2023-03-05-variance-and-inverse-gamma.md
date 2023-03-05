@@ -1,6 +1,6 @@
 # reference
 
-* https://en.wikipedia.org/wiki/Normal-inverse-gamma_distribution
+* [https://en.wikipedia.org/wiki/Normal-inverse-gamma_distribution](https://en.wikipedia.org/wiki/Normal-inverse-gamma_distribution)
 
 # main
 
