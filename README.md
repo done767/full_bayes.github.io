@@ -1,8 +1,8 @@
-<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML"></script>
+# url
 
-# full_bayes.github.io
+* https://v3wktdkraj1msk9cvajrxv85h4djq3.github.io/full_bayes.github.io
 
-$y=x$
+# reference
 
-aaa
+* https://docs.github.com/en/pages/quickstart
+* https://github.com/envygeeks/jekyll-docker/blob/master/README.md
