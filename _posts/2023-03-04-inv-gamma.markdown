@@ -1,5 +1,4 @@
 ---
-#layout: post
 layout: math
 title:  "inv_gamma"
 date:   2023-03-04 21:18:31 -0600
