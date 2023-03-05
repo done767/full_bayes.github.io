@@ -4,6 +4,7 @@
 |---|---|---|
 |gamma|$$\textnormal{Gamma}(y\|\alpha,\beta)=\frac{\beta^{\alpha}}{\Gamma(\alpha)}y^{\alpha-1}\exp{(-\beta y)}$$|[stan](https://mc-stan.org/docs/functions-reference/gamma-distribution.html)|
 |inverse gamma|$$\textnormal{InvGamma}(y\|\alpha,\beta)=\frac{\beta^{\alpha}}{\Gamma(\alpha)}y^{-(\alpha+1)}\exp{\left(-\beta\frac{1}{y}\right)}$$|[stan](https://mc-stan.org/docs/functions-reference/inverse-gamma-distribution.html)|
+|beta|$$\textnormal{Beta}(\theta\|\alpha,\beta)=\frac{1}{\textnormal{B}(\alpha,\beta)}\theta^{\alpha-1}(1-\theta)^{\beta-1}$$|[stan](https://mc-stan.org/docs/functions-reference/beta-distribution.html)<br>[wiki](https://en.wikipedia.org/wiki/Beta_function)|
 
 # discrete distributions
 
