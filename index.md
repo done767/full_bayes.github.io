@@ -6,3 +6,5 @@
 $y=x$
 
 aaa
+
+[tmp](_posts/tmp.md)
