@@ -2,7 +2,7 @@
 
 * https://en.wikipedia.org/wiki/Normal-inverse-gamma_distribution
 
-# core
+# main
 
 $$
 x \sim N(\mu,\sigma^2/\lambda)
