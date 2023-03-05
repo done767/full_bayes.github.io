@@ -4,16 +4,16 @@
   {%- include head.html -%}
 
   <body>
-    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-    <script type="text/javascript" id="MathJax-script" async
-      src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js">
-    </script>
   
     {%- include header.html -%}
 
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
-        {{ content }}
+        <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+        <script type="text/javascript" id="MathJax-script" async
+          src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js">
+        </script>
+            {{ content }}
       </div>
     </main>
 
