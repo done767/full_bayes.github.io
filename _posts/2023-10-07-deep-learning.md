@@ -1,5 +1,9 @@
 # Regression
 
-二乗誤差
+function
 
-$$E(w)=\sum_{n-1}^N{||d_n-y(x_n;w)||^2}$$
+$$y=f(x)$$
+
+error
+
+$$E(w)=\sum_{n=1}^N{||d_n-y(x_n;w)||^2}$$
